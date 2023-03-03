@@ -1,15 +1,15 @@
-# Increasing open source adoption at the British Geological Survey
+# About being a software developer
 
-Talk for [FOSS4G:UK Local 2022](https://uk.osgeo.org/foss4guk2022local/keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey), 17 November 2022.
+These slides are for a talk that I gave to primary school kids about being a software developer.
 
 The slides are rendered online at:
-[https://volcan01010.github.io/foss4g2022local/index.html](https://volcan01010.github.io/foss4g2022local/index.html).
+[https://volcan01010.github.io/primary_coding_club/index.html](https://volcan01010.github.io/primary_coding_club/index.html).
 
 Press `s` to activate Speaker View, which will also display additional speaker
 notes
 
 You can download a version suitable for printing at
-[https://volcan01010.github.io/foss4g2022local/index.html?print-pdf](https://volcan01010.github.io/foss4g2022local/index.html?print-pdf)
+[https://volcan01010.github.io/primary_coding_club/index.html?print-pdf](https://volcan01010.github.io/primary_coding_club/index.html?print-pdf)
 
 
 Clone repository and view [docs/index.html](docs/index.html) in browser to work
